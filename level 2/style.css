@@ -1,0 +1,141 @@
+.main {
+    font-family: "Roboto";
+    color: grey;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+
+.bg {
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: 100vh;
+    border-style: solid;
+    border-width: 1px;
+    padding: 10px;
+}
+
+.h1 {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    margin-left: 15px;
+    margin-top: 13px;
+    color: #ffffff;
+}
+
+.card1 {
+    background-color: #e6f6ff;
+    border-radius: 10px;
+    margin: 15px;
+}
+
+.img {
+    height: 200px;
+    width: 150px;
+}
+
+.h2 {
+    font-family: "Bree Serif";
+    color: #183b56;
+    margin-left: 15px;
+    margin-top: 13px;
+    font-size: 20px;
+}
+
+.book-dis {
+    font-family: "Bree Serif";
+    color: #06070d;
+    margin-left: 15px;
+    margin-top: 13px;
+    font-size: 15px;
+    text-align: left;
+    margin-right: 22px;
+}
+
+.book-auth {
+    font-family: "Bree Serif";
+    color: #183b56;
+    margin-left: 15px;
+    margin-top: 13px;
+    font-size: 12px;
+}
+
+.button {
+    margin-left: 15px;
+}
+
+.h3 {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    margin-left: 15px;
+    margin-top: 13px;
+    color: #ffffff;
+}
+
+.img2 {
+    height: 170px;
+    width: 130px;
+    margin-left: 20px;
+}
+
+.book-name {
+    font-family: "Bree Serif";
+    color: #ffffff;
+    margin-left: 15px;
+    margin-top: 13px;
+    font-size: 20px;
+}
+
+.book-auth2 {
+    font-family: "Bree Serif";
+    color: #9aa5b1;
+    margin-left: 15px;
+    margin-top: 13px;
+    font-size: 12px;
+
+}
+
+.gap {
+    margin-top: 22px;
+}
+
+.book-auth3 {
+    font-family: "Bree Serif";
+    color: #9aa5b1;
+    margin-left: 15px;
+    margin-top: 13px;
+    font-size: 12px;
+    margin-right: 150px;
+}
+
+.img3 {
+    height: 310px;
+    width: 180px;
+    margin-top: 22px;
+}
+
+.h4 {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    margin-top: 13px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.book-auth3 {
+    font-family: "Bree Serif";
+    color: #9aa5b1;
+    margin-top: 13px;
+    font-size: 12px;
+    margin-left: 150px;
+}
+
+.lng-para {
+    font-family: "Bree Serif";
+    color: #e4e7eb;
+    font-size: 15px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}

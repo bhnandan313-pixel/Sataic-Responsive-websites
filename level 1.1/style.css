@@ -1,0 +1,138 @@
+.bg {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 100vh;
+    border-style: solid;
+    border-color: white;
+    border-width: 1px;
+}
+
+.top-h {
+    color: #03134c;
+    font-family: "Roboto";
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+
+}
+
+.h {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    text-align: center;
+    margin-top: 110px;
+}
+
+.p {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    text-align: center;
+    padding: 2px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.card {
+    border-radius: 17px;
+    margin: 35px;
+    margin-top: 150px;
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/moon-bg.png");
+    background-size: cover;
+    text-align: center;
+
+
+}
+
+.button {
+    background-color: #8e97fd;
+    border-radius: 50px;
+    text-align: center;
+    color: white;
+
+    border-width: 0px;
+    width: 100px;
+    font-family: "Bree Serif";
+    font-size: 12px;
+    height: 30px;
+}
+
+.align {
+    text-align: center;
+}
+
+.h2 {
+    color: #ffe7bf;
+    font-family: "Bree Serif";
+    font-size: 30px;
+    text-align: center;
+    margin: 70px;
+}
+
+.page2-top-bg {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/clouds-img.png");
+    background-size: cover;
+    height: 30vh;
+    border-radius: 15px;
+}
+
+.bg2 {
+    background-color: #03174c;
+    background-size: cover;
+    height: 100vh;
+}
+
+.heading {
+    font-family: "Bree Serif";
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.para {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.txt {
+    padding: 15px;
+}
+
+.heading2 {
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.img {
+    height: 150px;
+    width: 200px;
+    margin-left: 15px;
+}
+
+.heading3 {
+    font-size: 18px;
+    margin-left: 17px;
+    margin-top: 5px;
+}
+
+.para2 {
+    color: #98a1bd;
+    font-family: "Bree Serif";
+    font-size: 15px;
+    margin-left: 17px;
+}
+
+.button2 {
+    background-color: #8e97fd;
+    border-radius: 50px;
+    text-align: center;
+    color: white;
+
+    border-width: 0px;
+    width: 100px;
+    font-family: "Bree Serif";
+    font-size: 12px;
+    height: 30px;
+    margin-left: 17px;
+}
