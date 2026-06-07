@@ -1,0 +1,30 @@
+.custom-navbar{
+    background-color:antiquewhite;
+}
+.background-herosection {
+    background-image: url("https://media.istockphoto.com/id/1307553426/photo/food-ingredients-for-cooking-italian-pasta.jpg?s=170667a&w=0&k=20&c=wv82sCcmN820YMtcV4XVls50idzNaBuP1s6a5htA674=");
+    background-size: cover;
+    height: 45vh;
+    width:100vw;
+}
+.main-heading{
+    font-family: "Roboto";
+    font-size: 35px;
+    padding-top: 85px;
+    padding-left:42px;
+
+    color:#ffffff
+}
+.title-1{
+    font-family: "Roboto";
+    font-size: 35px;
+    color:black;
+    margin: 20px;
+
+}
+.card-img{
+    width:100px;
+    height:100px;
+    border-radius: 20px;
+
+}
